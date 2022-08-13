@@ -6,7 +6,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedia&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="muhammedia" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=skick1234&label=Profile%20views&color=0e75b6&style=flat-square" alt="skick1234" />
  
   <h1>ABOUT ME</h1> 
   
