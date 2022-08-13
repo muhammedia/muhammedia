@@ -9,9 +9,9 @@
  
   <h1>ABOUT ME</h1> 
   
-  | Project           | URL                        | Description                                         |
-  |:-----------------:|:--------------------------:|:---------------------------------------------------:|
-  | DisTube Bot       | https://skick.xyz/DisTube  | A Discord Music Bot                                 |
-  | DisTube           | https://distube.js.org     | A Discord.js module to manage music commands easier |
-  | Skick Is Impostor | https://skick.xyz/Impostor | An Among Us Custom Server in Vietnam                |
+  | SITUS             | TAUTAN                               | DESKRIPSI                                           |
+  |:-----------------:|:------------------------------------:|:---------------------------------------------------:|
+  | CYBER SUPER STORE | https://discord.gg/datRETFmre        | Discord Marketplace                                 |
+  | YOUTUBE           | https://youtube.com/muhammadmaghribi | Channel You Tube                                    |
+  | INSTAGRAM         | https://instagram.com/muhampedia     | Instagram Saya                                      |
 </div>
