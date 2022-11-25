@@ -11,7 +11,7 @@
   
   | SITUS             | TAUTAN                               | DESKRIPSI                                           |
   |:-----------------:|:------------------------------------:|:---------------------------------------------------:|
-  | CYBER SUPER STORE | https://discord.gg/datRETFmre        | Discord Marketplace                                 |
+  | WEBSITE           | https://anteiku.tech/                | Blog Saya                                           |
   | YOUTUBE           | https://youtube.com/muhammadmaghribi | Channel You Tube                                    |
   | INSTAGRAM         | https://instagram.com/muhampedia     | Instagram Saya                                      |
 </div>
